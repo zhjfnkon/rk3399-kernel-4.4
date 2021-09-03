@@ -9,7 +9,7 @@
 #include "rk3399-linux.dtsi"
 
 / {
-	model = "Rockchip RK3399 EVB IND LPDDR4 Board edp (Linux)";
+	model = "Nkon RK3399 Core LPDDR4 Board (Linux)";
 	compatible = "rockchip,linux", "rockchip,rk3399-evb-ind-lpddr4-linux", "rockchip,rk3399";
 
 	iram: sram@ff8d0000 {
